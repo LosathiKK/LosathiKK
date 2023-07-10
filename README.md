@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=losathikk" alt="losathikk" /></a> </p>
 
-<img align="right" alt="coding" width="290" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif)">
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif)">
 
 <p align="left"> <a href="https://twitter.com/losathi_s" target="blank"><img src="https://img.shields.io/twitter/follow/losathi_s?logo=twitter&style=for-the-badge" alt="losathi_s" /></a> </p>
 
