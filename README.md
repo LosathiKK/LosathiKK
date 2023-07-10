@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying **Software Engineering at NSBM Green University.**
 
-- 🌱 I’m currently learning **Programming Languages, UI Designing,**
+- 🌱 I’m currently learning **Programming Languages, UI Designing**
 
 - 📫 How to reach me **kklosathi19@gmail.com**
 
