@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanali Losathi.</h1>
 <h3 align="center">A passionate Frontend Developer from Sri Lanka.</h3>
-<img align="right" alt="coding" width="400" src="[https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif](https://learnwithneha.hashnode.dev/)">
+<img align="right" alt="coding" width="400" src="[[https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif](https://learnwithneha.hashnode.dev/)](https://www.alamy.com/stock-photo/woman-programmer.html?cutout=1)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=losathikk&label=Profile%20views&color=0e75b6&style=flat" alt="losathikk" /> </p>
 
