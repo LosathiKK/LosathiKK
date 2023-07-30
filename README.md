@@ -9,9 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/losathi_s" target="blank"><img src="https://img.shields.io/twitter/follow/losathi_s?logo=twitter&style=for-the-badge" alt="losathi_s" /></a> </p>
 
-- 🔭 I’m currently studying **Software Engineering at NSBM Green University.**
+- 🔭 I am currently pursuing a **Software Engineering Degree.**
 
-- 🌱 I’m currently learning **Programming Languages, UI Designing**
+- 🎓 I'm a student at **National School of Business Management.**
+
+- 🌱 I’m currently learning **Programming Languages, UI Designing.**
 
 - 📫 How to reach me **kklosathi19@gmail.com**
 
