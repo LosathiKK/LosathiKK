@@ -13,7 +13,7 @@
 
 - 🎓 I'm a student at **National School of Business Management.**
 
-- 🌱 I’m currently learning **Programming Languages, UI Designing.**
+- 🌱 I’m currently learning **Programming Languages, Web Development, UI Designing.**
 
 - 📫 How to reach me **kklosathi19@gmail.com**
 
