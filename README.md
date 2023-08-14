@@ -1,4 +1,3 @@
-<img src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F603834262539820770%2F&psig=AOvVaw01x-rUqVRXnfQlu5DMu1sP&ust=1692140850665000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDFl4Si3YADFQAAAAAdAAAAABAZ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fquery%3Fq%3Dminimal%2Bcoding&psig=AOvVaw2lzc0L1sEbqvUYqjnJYdgr&ust=1692141013260000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDMzNGi3YADFQAAAAAdAAAAABAj)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaper.dog%2Fdeveloper&psig=AOvVaw2lzc0L1sEbqvUYqjnJYdgr&ust=1692141013260000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDMzNGi3YADFQAAAAAdAAAAABAr)" />
 <h1 align="center"> Hello 👋<br> I'm Sanali Losathi. </h1>
 <h3 align="center">A Passionate Software Engineer from Sri Lanka.</h3>
 
