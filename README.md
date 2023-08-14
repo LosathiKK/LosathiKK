@@ -1,3 +1,4 @@
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F603834262539820770%2F&psig=AOvVaw01x-rUqVRXnfQlu5DMu1sP&ust=1692140850665000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDFl4Si3YADFQAAAAAdAAAAABAZ" />
 <h1 align="center"> Hello 👋<br> I'm Sanali Losathi. </h1>
 <h3 align="center">A Passionate Software Engineer from Sri Lanka.</h3>
 
