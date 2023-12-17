@@ -1,9 +1,3 @@
-<body>
-  <input type="checkbox" id="darkmode-toggle"/>
-  <label for="darkmode-toggle"></label>
-  <div class="background"></div>
-</body>
-
 <h1 align="center"> Hello 👋<br> I'm Sanali Losathi. </h1>
 <h3 align="center">A Passionate Software Engineer from Sri Lanka.</h3>
 
